@@ -148,6 +148,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Région parisienne
 
+#### Manon Carbonnel
+
+- [https://bento.me/manoncarbonnel](https://bento.me/manoncarbonnel)
+- [LinkedIn](https://www.linkedin.com/in/manon-carbonnel)
+- Thèmes - Mob programming, HTML CSS, Software Craft, tests, Agilité, social tech
+- Langues - Français, Anglais
+- Localisation - Rennes
+
 #### Marcy Ericka Charollois
 
 - [@marcyerickac.bsky.social sur BlueSky](https://bsky.app/profile/marcyerickac.bsky.social)
